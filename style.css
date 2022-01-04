@@ -1,0 +1,15 @@
+
+img{
+    margin-bottom: 100px;;
+}
+h1{
+    background-color: rgba(0, 0, 0, 0.616);
+    width: fit-content;
+    border-radius: 5px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Lora', serif;
+}
+.navt{
+    position: fixed;
+}
